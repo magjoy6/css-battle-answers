@@ -1,3 +1,5 @@
-<a b><a><c><c d><c e><c f> 
-<style>*{background:#191919;position:absolute}a{width:100;height:100;background:#4F77FF;top:117;left:142}[b]{border-radius:50%;top:67}c{width:80;height:20;left:80;top:8}[d]{left:-20;top:24}[e]{top:24;left:-20}[f]{top:24;left:-20}
-</style>
+<a b><a><c><c d><c d><c d>
+<style>*{background:#191919;position:absolute}a{width:100;height:100;background:#4F77FF;top:117;left:142}[b]{border-radius:50%;top:67}c{width:80;height:20;left:80;top:8}[d]{left:-20;top:24}
+
+
+"DON'T USE SPACES!! FOR BETTER UNDERSTAND I HAVE SEPARATED THE STYLE."
